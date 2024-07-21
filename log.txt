@@ -1,0 +1,23 @@
+[33mcommit 5e8e0d56a14cb1d74419636afd5286d020d6cf03[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: R0TIZA <loltawon@mail.ru>
+Date:   Sun Jul 21 20:43:03 2024 +0300
+
+    add a dot to the file.txt
+
+[33mcommit ac1732a8a2bfda8e51c277dcabef1ee3930dea03[m
+Author: R0TIZA <loltawon@mail.ru>
+Date:   Sun Jul 21 20:41:36 2024 +0300
+
+    Revers text in file.txt
+
+[33mcommit 1169c3b37a8e21bfe5053bf2ac335677bb641944[m
+Author: R0TIZA <loltawon@mail.ru>
+Date:   Sun Jul 21 20:40:25 2024 +0300
+
+    Добавил текст в test.txt
+
+[33mcommit a2f5e4a7ed461aba0206c543424bdea55e288f4a[m
+Author: R0TIZA <loltawon@mail.ru>
+Date:   Sun Jul 21 20:32:18 2024 +0300
+
+    Мой первый коммит!
